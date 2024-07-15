@@ -1,4 +1,4 @@
-# PROJWCT-SQL
+# PROJECT-SQL
 -- Create the database
 CREATE DATABASE library;
 
