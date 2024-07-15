@@ -1,3 +1,3 @@
-PROJECT SQL
+
 The Library Management System  is a comprehensive solution designed to manage the catalog of a library, track the status of books, manage employee records, and handle customer interactions. This system aims to streamline the operations of a library, making it easier to manage book inventories, employee details, and customer records.
 The Library Management System effectively organizes and manages the core operations of a library. By implementing this system, libraries can ensure efficient handling of books, employee records, and customer interactions, thereby enhancing the overall library experience
